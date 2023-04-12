@@ -1,4 +1,3 @@
-README
 This code is an example of how to use the @metaplex-foundation/mpl-token-metadata library to create a new metadata account on the Solana blockchain for a given mint.
 
 The code imports the necessary libraries, including the @metaplex-foundation/mpl-token-metadata, @solana/web3.js, and @project-serum/anchor. It then defines a function loadWalletKey that loads a Solana wallet keypair from a JSON file.
